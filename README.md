@@ -41,6 +41,9 @@ mido – For communicating with your MIDI output ports and hardware.
 numpy – For mathematical array operations and frequency calculations.
 scipy – Specifically for the fast Fourier transform (scipy.fft) used in frequency analysis.
 
+The script was written by Gemma 4 12B QAT and cleaned up by QWEN 3.5 9B, locally, on a Mac Mini M4 16GB base model.
+
+
 
 
 
